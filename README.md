@@ -49,11 +49,12 @@ Click Generate Image.
 
 - The app uses the Vyro API for image generation.
 
-- You’ll need a valid API key to make requests. Replace the placeholder key inside script.js:
+- You’ll need a Imagine art API key to make requests. Replace the placeholder key inside script.js:
 
 ```bash
    const API_KEY = "Bearer YOUR_API_KEY_HERE";
    ```
+
 
 
 Keep your API key private — don’t share it publicly.
