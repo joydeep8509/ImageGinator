@@ -1,6 +1,6 @@
 # 🎨 AI Image Generator
 
-An elegant web app that lets you generate images from text prompts using the [Vyro API](https://vyro.ai).  
+An elegant web app that lets you generate images from text prompts using the Imagine Art API  
 Simply describe the image you want, pick a style and aspect ratio, and get an AI-generated result you can download instantly.
 
 ---
@@ -58,3 +58,4 @@ Click Generate Image.
 
 
 Keep your API key private — don’t share it publicly.
+
